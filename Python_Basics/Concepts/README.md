@@ -4,10 +4,10 @@
 
 2)<b>What is reference counting and how it defers from garbage collection?</b>
  
-    Note:- <b>for 1 and 2 refer demo.py or demo.ipynb</b>
+    Note:- for 1 and 2 refer demo.py or demo.ipynb
  
 3)<b>String operations, Conditional statement and loops</b>
 
 4)<b>File I/O, Functions</b>
 
-    Note:- <b>for 3 and 4 refer sample.py or sample.ipynb</b>
+    Note:- for 3 and 4 refer sample.py or sample.ipynb
