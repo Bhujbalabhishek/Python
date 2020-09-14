@@ -11,3 +11,9 @@
 4)<b>File I/O, Functions</b>
 
     Note:- for 3 and 4 refer sample.py or sample.ipynb
+    
+5)<b>Mathematical operations, List operations</b>
+
+6)<b>Dictionary operations, String indexing and formatting</b>
+
+    Note:- for 5 and 6 refer student_management.py or student_management.ipynb
