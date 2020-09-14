@@ -1,2 +1,2 @@
 # Python
-Python basics and assignments
+Python basics and assignments, exercises
