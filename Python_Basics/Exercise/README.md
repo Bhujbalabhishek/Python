@@ -26,7 +26,7 @@ Enter the no.of large containers you want to recycle?25
 
 Total refund for returning the both Containers is $6.75
 
-
+<hr>
 <b>I have a jupyternotebook file as well where all the solutions of the exercises as well i.e .ipynb extension file</b>
 
 [Exercise_jupyter](https://github.com/Bhujbalabhishek/Python/blob/master/Python_Basics/Exercise/exercise.ipynb)
